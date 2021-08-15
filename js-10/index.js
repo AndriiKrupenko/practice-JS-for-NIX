@@ -8,4 +8,3 @@ function nameFilter(arr) {
     }
     return arrNew;
 }
-
