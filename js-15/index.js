@@ -1,5 +1,3 @@
-let arr = [];
-
 function maxDiff(arr) {
     if (arr.length !== 0) {
         const smallestNumber = Math.min(...arr);

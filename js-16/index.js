@@ -1,7 +1,3 @@
-let str = '';
-let num = 0;
-let arrWords = [];
-
 function findWords(str, num) {
     let remove = /[,\s]/;
     arrWords = str.split(remove);

@@ -1,5 +1,3 @@
-let arr = [];
-
 function nameFilter(arr) {
     const unwantedNames = ['Дима', 'Саша', 'Ольга', 'Никита'];
     let arrNew = [];
